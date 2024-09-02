@@ -6,6 +6,7 @@
 
 - `id_venda`: Número inteiro, chave primária.
 - `data_venda`: Data da venda.
+- `produto`: Produto.
 - `id_produto`: Número inteiro, identificador do produto.
 - `quantidade`: Número inteiro, quantidade vendida.
 - `preco_unitario`: Número decimal, preço unitário do produto.
